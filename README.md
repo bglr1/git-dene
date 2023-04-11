@@ -1,0 +1,2 @@
+# git-dene
+ders denemeleri
